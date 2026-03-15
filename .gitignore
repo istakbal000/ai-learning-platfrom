@@ -1,0 +1,7 @@
+﻿node_modules
+.env
+uploads/*.pdf
+*.log
+.DS_Store
+.vscode
+.idea
